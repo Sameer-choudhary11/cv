@@ -1,0 +1,397 @@
+body{
+    background-color: black;
+    margin: 0%;
+}
+.d1{
+    position: relative;
+    background-color:black;
+    width: 100%;
+    height: 30em;
+    /* border-radius: 2em; */
+}
+.heading{
+    position: absolute;
+    display:    inline-block;
+    background-color: black  #1C0C5B ;
+    color: white;
+    
+    font-family: 'Sacramento', cursive;
+    width: 40%;
+    border-radius: 2em;
+    left: 30%;
+    top: 20%;
+}
+.h-1{
+    font-size: 5vw;
+    text-align: center;
+    line-height: 1em;
+}
+.h-2{
+    text-align: center;
+}
+.d2{
+    position: relative;
+    margin-top: 3%;
+    background-color: #F9F9F9;
+    width: 100%;
+    height: 40em;
+    border-radius: 2em;
+}
+.about{
+    position: absolute;
+    left: 35%;
+    top: 0%;
+    border-radius: 1em;
+    background-color:  #F9F9F9;
+    font-size: 2vw;
+    color: #28FFBF;
+    line-height: 1em;
+    font-family:'Sacramento', cursive; ;
+}
+.im1{
+    display: inline-block;
+    /* top: 100%; */
+      
+    margin-left: 15%;
+    margin-top: 8%;
+   
+   
+}
+.p1{
+    position: absolute;
+    display: inline-block;
+    top: 25%;
+    height: 50vh;
+    width: 30vw;
+    /* float: right; */
+    border-radius: 10em;
+    background-color:black;
+}
+.dp1{
+    position: absolute;
+    display: inline-block;
+    left: 50%;
+    top: 30%;
+    font-size: 2vw;
+    width: 30vw;
+    text-align: center;
+    line-height: 1.5em;
+    border-radius: 1em;
+    background-color:#F8E2CF;
+    color:#141E61 white;
+    font-family: 'Merriweather', serif;
+}
+.imb{
+    background-color: white;
+}
+.d3{
+    position: relative;
+    margin-top: 3%;
+    background-color:#3D2C8D;
+    width: 100vw;
+    height: 7vh;
+    border-radius: 2em;
+}
+.skills{
+    position: absolute;
+    left: 40%;
+    font-size: 3vw;
+    line-height: 0em;
+    color: white;
+    font-family:'Sacramento', cursive; ;
+}
+.d4{
+     
+    position: relative;
+    margin-top: 10%;
+    background-color:white;
+    width: 100vw;
+    height: 40vh;
+    border-radius: 2em;
+}
+.im2{
+    position: relative;
+    bottom: 10%;
+    left: 20%;
+     
+}
+.p2{
+    position: absolute;
+    height: 20vw;
+    padding-top: 10px;
+    float: right;
+    width: 20vw;
+     
+}
+.dp2{
+    position: absolute;
+    display: inline-block;
+    left: 45%;
+    bottom: 65%;
+    font-size: 1.5vw;
+    width: 30vw;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 1em;
+    background-color:#F8E2CF;
+    color:#141E61 white;
+    font-family: 'Merriweather', serif;
+}
+.im3{
+    position: relative;
+    top: 45%;
+    left: 55%;
+     
+}
+.p3{
+    position: absolute;
+    height: 20vw;
+    width: 20vw;
+     
+}
+.dp3{
+    position: absolute;
+    display: inline-block;
+    left: 20%;
+    top: 45%;
+    font-size: 1.4vw;
+    width: 30vw;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 1em;
+    background-color:#F8E2CF;
+    color:#141E61 white;
+    font-family: 'Merriweather', serif;
+}
+.d5{
+     
+    position: relative;
+    margin-top: 15%;
+    background-color:white;
+    width: 100vw;
+    height: 40vh;
+    border-radius: 2em;
+}
+.im4{
+    position: relative;
+    padding-top: 10%;
+    bottom: 10%;
+    left: 20%;
+     
+}
+.p4{
+    position: absolute;
+    height: 20vw;
+    width: 20vw;
+     
+}
+.dp4{
+    position: absolute;
+    display: inline-block;
+    left: 50%;
+    bottom: 60%;
+    font-size: 1.5vw;
+    width: 30vw;
+    text-align: center;
+    line-height: 1.5em;
+    border-radius: 1em;
+    background-color:#F8E2CF;
+    color:#141E61 white;
+    font-family: 'Merriweather', serif;
+}
+.im5{
+    position: relative;
+    top: 45%;
+    left: 60%;
+     
+}
+.p5{
+    position: absolute;
+    height: 20vw;
+    width: 20vw;
+     
+}
+.dp5{
+    position: absolute;
+    display: inline-block;
+    left: 20%;
+    top: 45%;
+    font-size: 1.4vw;
+    width: 30vw;
+    text-align: center;
+    line-height: 1.5em;
+    border-radius: 1em;
+    background-color:#F8E2CF;
+    color:#141E61 white;
+    font-family: 'Merriweather', serif;
+}
+
+.d6{
+     
+    position: relative;
+    margin-top: 5%;
+    background-color:white;
+    width: 100vw;
+    height: 30vh;
+    border-radius: 2em;
+}
+
+
+.im6{
+    position: relative;
+    top: 10%;
+    left: 20%;
+     
+}
+.p6{
+    position: absolute;
+    height: 20vw;
+    float: right;
+    width: 20vw;
+     
+}
+.dp6{
+    position: absolute;
+    display: inline-block;
+    left: 50%;
+    top: 10%;
+    font-size: 1.5vw;
+    width: 30vw;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 1em;
+    background-color:#F8E2CF;
+    color:#141E61 white;
+    font-family: 'Merriweather', serif;
+}
+.d7{
+     
+    position: relative;
+    margin-top: 5%;
+    background-color:white;
+    width: 100vw;
+    height: 30vh;
+    border-radius: 2em;
+}
+.im7{
+    position: relative;
+    top: 10%;
+    left: 55%;
+     
+}
+.p7{
+    position: absolute;
+    height: 20vh;
+    width: 20vw;
+     
+}
+.dp7{
+    position: absolute;
+    display: inline-block;
+    left: 20%;
+    top: 10%;
+    font-size: 1.4vw;
+    width: 30vw;
+    text-align: center;
+    line-height: 2em;
+    border-radius: 1em;
+    background-color:#F8E2CF;
+    color:#141E61 white;
+    font-family: 'Merriweather', serif;
+}
+.d8{
+     
+    position: relative;
+    margin-top: 5%;
+    background-color:black;
+    width: 50vw;
+    height: 20vh;
+    margin-left: 0%;
+    margin-right: 0%;
+    /* border-radius: 2em; */
+}
+.work{
+    position: absolute;
+    left: 30%;
+    color: white;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 2vw;
+    line-height: 1em;
+    border-radius: 1em;
+}
+.btn {
+    background: #2600ff;
+    background-image: -webkit-linear-gradient(top, #2600ff, #0025e0);
+    background-image: -moz-linear-gradient(top, #2600ff, #0025e0);
+    background-image: -ms-linear-gradient(top, #2600ff, #0025e0);
+    background-image: -o-linear-gradient(top, #2600ff, #0025e0);
+    background-image: linear-gradient(to bottom, #2600ff, #0025e0);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 40vw;
+    padding: 10vh 20vw 10vh 20vw;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #00f725;
+    background-image: -webkit-linear-gradient(top, #00f725, #40ff00);
+    background-image: -moz-linear-gradient(top, #00f725, #40ff00);
+    background-image: -ms-linear-gradient(top, #00f725, #40ff00);
+    background-image: -o-linear-gradient(top, #00f725, #40ff00);
+    background-image: linear-gradient(to bottom, #00f725, #40ff00);
+    text-decoration: none;
+  }
+  .call{
+      position: absolute;
+      left: 55%;
+      top: 40%;
+      /* height: 300px;
+      width: 300px; */
+      width: 0%;
+      height: 0%;
+  }
+  .btn2 {
+    background: #2600ff;
+    background-image: -webkit-linear-gradient(top, #2600ff, #0025e0);
+    background-image: -moz-linear-gradient(top, #2600ff, #0025e0);
+    background-image: -ms-linear-gradient(top, #2600ff, #0025e0);
+    background-image: -o-linear-gradient(top, #2600ff, #0025e0);
+    background-image: linear-gradient(to bottom, #2600ff, #0025e0);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 40vw;
+    padding: 10% 20% 10% 20%;
+    text-decoration: none;
+  }
+  
+  .btn2:hover {
+    background: #00f725;
+    background-image: -webkit-linear-gradient(top, #00f725, #40ff00);
+    background-image: -moz-linear-gradient(top, #00f725, #40ff00);
+    background-image: -ms-linear-gradient(top, #00f725, #40ff00);
+    background-image: -o-linear-gradient(top, #00f725, #40ff00);
+    background-image: linear-gradient(to bottom, #00f725, #40ff00);
+    text-decoration: none;
+  }
+  .message{
+      position: absolute;
+      left: 35%;
+      top: 40%;
+      width: 0%;
+      height: 0%;
+  }
+  .cp{
+      position: absolute;
+      bottom: 1%;
+      left: 35%;
+      background-color: white;
+      border-radius: 2em;
+  }
